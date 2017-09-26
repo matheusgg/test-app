@@ -1,5 +1,5 @@
 # Test App
-#### This is a simple project using Gradle, Spring Boot, WireMock and RESTAssured. 
+#### This is a simple project using Gradle, Spring Boot, WireMock and REST Assured. 
 
 *To run the application*
 
