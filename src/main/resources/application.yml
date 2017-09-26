@@ -1,0 +1,14 @@
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: update
+  h2:
+    console:
+      enabled: true
+management:
+  security:
+    enabled: false
+
+br.com.app:
+  weather-service-url: http://samples.openweathermap.org/data/2.5
+  app-id: 7cba5b4939b446c22377081c365b0825

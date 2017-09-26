@@ -1,0 +1,2 @@
+br.com.app:
+  weather-service-url: http://localhost:8189
